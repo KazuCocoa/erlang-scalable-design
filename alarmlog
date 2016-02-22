@@ -1,0 +1,6 @@
+Io:1 Time:{1,17,8} Date:{2016,2,23}
+Event:{set_alerm,{no_frequency,<0.33.0>}}
+Io:2 Time:{1,17,33} Date:{2016,2,23}
+Event:{clear_alerm,no_frequency}
+Io:3 Time:{1,18,11} Date:{2016,2,23}
+Unknown:sending_junk
